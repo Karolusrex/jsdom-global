@@ -165,6 +165,7 @@ var OTHER_KEYS = [
   'removeEventListener',
   'resizeBy',
   'resizeTo',
+  'requestAnimationFrame',
   'screen',
   'screenLeft',
   'screenTop',
